@@ -1,0 +1,14 @@
+<!-- /*calculator sample8*/ -->
+
+
+#countLabel {
+  display: block;
+  font-size: 80px;
+  color: blueviolet;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: oblique;
+}
+#decreaseBtn {
+  margin-left: 41%;
+}
